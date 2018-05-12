@@ -1,0 +1,47 @@
+_repo: Histology-of-the-Blood-Normal-and-Pathological_29842
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Woodhead, G. Sims, (German Sims), Sir
+    alias: Woodhead, German Sims, Sir
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '34210'
+    url: http://www.gutenberg.org/2009/agents/34210
+  translator:
+    agent_name: Myers, W.
+    gutenberg_agent_id: '34211'
+    url: http://www.gutenberg.org/2009/agents/34211
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lazarus, Adolf
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '34209'
+    url: http://www.gutenberg.org/2009/agents/34209
+  - agent_name: Ehrlich, Paul
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '34208'
+    url: http://www.gutenberg.org/2009/agents/34208
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2009-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blood Physiology'
+- !lcc 'RB'
+- !lcsh 'Blood -- Examination'
+- !lcsh 'Blood cells -- Anatomy and histology'
+- !lcsh 'Hematologic Diseases -- Pathology'
+title: Histology of the Blood, Normal and Pathological
+url: http://www.gutenberg.org/ebooks/29842
